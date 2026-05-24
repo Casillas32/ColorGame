@@ -7,7 +7,8 @@
     "icon": "./assets/icon.jpeg",
     "userInterfaceStyle": "light",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "icon": "./assets/icon.jpeg"
     },
     "android": {
       "adaptiveIcon": {
